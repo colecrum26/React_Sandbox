@@ -1,12 +1,13 @@
 import React from 'react';
 
 // TODO: Create a `name` variable
-const name = "Cole";
+
 // TODO: Create a `thoughts` variable
 // This should be a string regarding what you think of React
-const thoughts = "will be cool once I get the hang of the terms";
 
 function JSXVariables() {
+  const name = "Cole";
+  const thoughts = "will be cool once I get the hang of the terms";
   return (
     <div className="main-container">
       <div className="container">
